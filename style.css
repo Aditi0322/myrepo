@@ -1,0 +1,9 @@
+/* Make the background purple and text white for visibility */
+body {
+  background-color: rgba(88, 3, 88, 0.874);
+  color: white;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 50px;
+}
+
